@@ -103,6 +103,13 @@ Some characters will take part in several campaigns, so they can appear repeated
 
 ---
 
+# Sellof Sterces
+
+***Name meaning:*** A sum with distortion of the words Seller and Of.
+***Surname meaning:*** The word Secters spelled backwards. The most cunning smuggler in all of Watlon.
+
+---
+
 # Chavzev Nimsov
 
 ***Name Meaning:*** His name comes from Hugo Chavez. The V and Z were reversed to form the word zev.  Zev – jaws. Hunger for reforms. Jaws for the budget. He fought fiercely for political reform, completely disregarding the impact on the Tonata galaxy's budget. He was a populist. He also exposed many unflattering facts, was a staunch opponent of Unlas, and knew his nature. For this, he earned an assassination attempt.
