@@ -1,5 +1,3 @@
-[[Ask from Heroism (HoS) Intellectual Property (IP)]]
-
 Some characters will take part in several campaigns, so they can appear repeatedly in different documents. For some characters, separate cards will be created in the future with their history throughout all the campaigns in which they took part and will be added to the Mechanic-and-Kit-Universe-IP repository.
 
 ---
@@ -100,6 +98,7 @@ Some characters will take part in several campaigns, so they can appear repeated
 
 ***Name Meaning:*** The name comes from Valentino Rossi is the most charismatic and media-friendly motorcycle racer in history, a nine-time world champion. 
 ***Surname meaning:*** The meaning of his surname is explained in a document by Gerald Pastrunas.
+Doesn't appear on screen, but is mentioned.
 
 ---
 
@@ -147,6 +146,27 @@ Some characters will take part in several campaigns, so they can appear repeated
 # Vernin Fenwicked
 
 ***Name and Surname Meaning:*** Reference to Vernon Fenwick. The name is deliberately distorted to spell "Wicked." He's not evil, though, but rather cowardly. He works as a cameraman and assistant to Pur O'Neil.
+
+---
+
+# Crutch Neurobiologist
+
+***Name Meaning:*** Crutches are agents of the Great Breguet who assist the protagonist when the story reaches a dead end and the plot cannot continue.
+***Surname Meaning:*** Gives Witya quests to collect Brain-eaters' brains. Specifically, three quests for 10, 24, and 60 portions.
+
+---
+
+# Great Breguet
+
+***Name and Surname Meaning:*** Created by Clockmaster after the Timzer crisis, as the ISORI was broken. This AI was designed to maintain cause and effect, a connection that allowed time itself to move forward. Or, under special circumstances... even backward. However, this AI had almost no ability for entropy or variability, and it completely lacked empathy. The broken ISORI was responsible for the world outside the script, for variability. As much as it could. It was precisely for the empathic and variability-based refinement of Breguet that Kit was created and sent into the Living World. She was to learn empathy and, subsequently, complement the Great Breguet. However, some characters fell outside Breguet's direct control, such as Witya, when Kit, a being from another world over whom Breguet had never had control, began to influence his decisions. It is precisely because of such beings that the Great Breguet sometimes has to resort to Crutches when everything can't be organized "according to the script."
+He is included in the character list of the first game, as his name appears in the descriptions of several characters involved in the events of AfH.
+
+---
+
+# Clockmaster
+
+***Nickname Meaning:*** He took this name after the creation of the Great Breguet and is a disciple of the Demiurge. However, he was far from a teacher, which is why his worldkeeping AI was almost incapable of variation and lacked Empathy. At the end of his life, he created Kit to refine the Great Breguet, told her her mission, and then she set off for the Living World to meet Witya. His real name is unknown.
+He doesn't appear onscreen, but is mentioned.
 
 ---
 Copyright (c) 2026 DemiurgeF20.8063. All rights reserved.
