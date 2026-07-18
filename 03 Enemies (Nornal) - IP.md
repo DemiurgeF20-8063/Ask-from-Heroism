@@ -1,4 +1,5 @@
-[[Ask from Heroism (AfH) Intellectual Property (IP)]]
+https://app.notion.com/p/383e9d50bf168072a377fda6f0828385?v=383e9d50bf16805cb61e000c5b4b8084&source=copy_link
+
 # Hornet Toad
 
 ***Mission***: 01 Inspect the crash site
@@ -290,8 +291,8 @@
 
 # Systematic Biter
 
-***Mission***: 09 Investigate GSDM, 13 Clear out the GRO
-***Location***: Brainrot lava, GRO, GSDM
+***Mission***: 09 Investigate GSDM, 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
+***Location***: Brainrot lava, GSDM
 ***Weight***: Medium
 ***Type***: Melee
 ***Damage type***: Physical
@@ -301,8 +302,8 @@
 
 # Systematic Spitter
 
-***Mission***: 09 Investigate GSDM, 13 Clear out the GRO
-***Location***: Brainrot lava, GRO, GSDM
+***Mission***: 09 Investigate GSDM, 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
+***Location***: Brainrot lava, GSDM
 ***Weight***: Small
 ***Type***: Mid Distance
 ***Damage type***: Acid
@@ -311,8 +312,8 @@
 
 # Systematic Toad
 
-***Mission***: 09 Investigate GSDM, 13 Clear out the GRO
-***Location***: Brainrot lava, GRO, GSDM
+***Mission***: 09 Investigate GSDM, 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
+***Location***: Brainrot lava, GSDM
 ***Weight***: Swarm
 ***Type***: Melee
 ***Damage type***: Physical
@@ -578,7 +579,7 @@
 
 # Brain Eater
 
-***Mission***: 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains, 16 - 22 Obtain 60 brains (opt)
+***Mission***: 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
 ***Location***: Brainrot lava
 ***Weight***: Heli
 ***Type***: Various
@@ -588,7 +589,7 @@
 
 # Brain Nest
 
-***Mission***: 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains, 16 - 22 Obtain 60 brains (opt)
+***Mission***: 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
 ***Location***: Brainrot lava
 ***Weight***: Large
 ***Type***: None
@@ -599,7 +600,7 @@
 
 # Smartopus
 
-***Mission***: 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains, 16 - 22 Obtain 60 brains (opt)
+***Mission***: 14 - 22 Obtain 10 brains, 15 - 22 Obtain 23 brains (opt), 16 - 22 Obtain 60 brains (opt)
 ***Location***: Brainrot lava
 ***Weight***: mini-Boss
 ***Type***: Various
