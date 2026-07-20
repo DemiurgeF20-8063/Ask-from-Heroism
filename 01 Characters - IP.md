@@ -165,7 +165,7 @@ It is included in the character list of the first game, as his name appears in t
 
 # Whiteman
 
-***Meaning of the name:*** He took this name after creating the Great Breguet and is Blackman's apprentice. However, his peacekeeping AI was almost incapable of variation and lacked Empathy. At the end of his life, he created Kit to refine the Great Breguet, told her her mission, and then she departed for the Living World to meet Vitya.
+***Meaning of the name:*** He took this name after creating the Great Breguet and is Blackman's apprentice. However, his peacekeeping AI was almost incapable of variation and lacked Empathy. At the end of his life, he created Kit to refine the Great Breguet, told her her mission, and then she departed for the Living World to meet Witya.
 Doesn't appear onscreen, but is mentioned.
 
 ---
